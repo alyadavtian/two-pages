@@ -1,0 +1,17 @@
+body{
+    background:rgba(171, 163, 196, 0.17);}
+    .rounded-img{border-radius: 50%;}
+      .card:hover {
+        background-color: rgba(156, 148, 158, 0.189);
+        
+
+      }
+      img{border-top-left-radius: 10px;}
+      .purple{background-color: rgba(171, 89, 198, 0.18);}
+      .bluegreen{background-color: rgba(15, 76, 92, 0.17);}
+      .yellow{background-color: rgba(152, 152, 109, 0.189);}
+      .card-bott{margin-bottom: 35px; padding: 20px; border-radius: 20px; }
+      a{color: black; text-decoration: none;}
+      a:hover{color:black}
+      
+      
